@@ -2,6 +2,8 @@
 
 # 第一步：安装前的准备步骤：
 
+（以markdown的相对路径的方式插入图片会被国家的防火强拦住，但是以html的img方式不会）
+
 ## 1.1、下载navicat和激活工具
 
 链接: https://pan.baidu.com/s/1S1MfQcGg1qimOFCOTTkx_w
